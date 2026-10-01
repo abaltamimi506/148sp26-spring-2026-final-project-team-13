@@ -28,7 +28,7 @@
 | Name | Major | Contacts | LinkedIn |
 |---|---|---|---|
 | Edgar Stalleicken | MAE |
-| Abdulmajeed Altamimi | MAE |
+| Abdulmajeed Altamimi | MAE | abaltamimi@ucsd.edu or cv.abaltamimi@gmail.com
 | Riku Nagareda | ECE |
 | Vy Dang | CSE | kid002@ucsd.edu or kietdangvy@gmail.com | [LinkedIn](https://www.linkedin.com/in/kiet-vy-dang-45a419201/)
  
